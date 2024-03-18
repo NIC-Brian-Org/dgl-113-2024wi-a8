@@ -11,7 +11,7 @@ Brightspace DGL113 website, at least one week after the due date.
 For this assignment, it will not only be assessed on the tasks you
 complete as required below but also on other aspects of your work as
 listed in
-[Coding Assignment Requirements](https://mycourses.nic.bc.ca//content/enforced/28571-e6bc4c08-994b-4afc-9738-80ef1456d9e9/01Overview/assnRequirements.html?isCourseFile=true&ou=28571)
+[Coding Assignment Requirements](https://introduction-javascript.bkoehler.imgd.ca/docs/guidelines)
 on the Course Overview page. Make sure you don't miss them.
 
 #### I. Complete the following 3 coding tasks (9 points, 3 points each)
@@ -57,7 +57,7 @@ the following features.
    NOTE: The HTML validation should include the html code
    produced / modified by JavaScript at runtime. Reference the method
    presented on the
-   [FAQ page](https://mycourses.nic.bc.ca//content/enforced/28571-e6bc4c08-994b-4afc-9738-80ef1456d9e9/01Overview/faq.html?isCourseFile=true&ou=28571) to do it.
+   [FAQ page](https://introduction-javascript.bkoehler.imgd.ca/docs/FAQ) to do it.
 
 NOTE: Only modify the `docs/app.js` file. Do not make changes to
 any other files.
